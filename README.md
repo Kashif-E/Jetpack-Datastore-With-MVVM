@@ -1,7 +1,6 @@
 # DataStore Example
 
-this example shows how you can use data store to store data in key value pairs and get rid of shared preferences
-
+this example shows how you can use data store to store data in key value pairs and get rid of shared preferences using. MVVM architecture with Hilt and repository pattern
 
 Medium Article: https://kashif-mehmood-km.medium.com/the-what-why-and-how-of-preferences-datastore-dc0dda15dfbb
 
